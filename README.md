@@ -1,11 +1,11 @@
 # Substrate Runtime Developer Academy
 
-## Exercise One
+## Exercise One ✅
 
-1. Setup development environment
-2. Fork & clone this project
-3. Update author in Cargo.toml file
-4. Run a single node testnet and send a transaction
+1. ~~Setup development environment~~
+2. ~~Fork & clone this project~~
+3. ~~Update author in Cargo.toml file~~
+4. ~~Run a single node testnet and send a transaction~~
 
 ---
 
